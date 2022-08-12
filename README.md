@@ -14,5 +14,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licience 
 [MIT](https://github.com/umitaktemur/kodluyoruzilkrepo/blob/main/LICENSE)
+
+
 ![kodluyoruz görsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
